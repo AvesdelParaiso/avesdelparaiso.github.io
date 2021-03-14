@@ -26,13 +26,35 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.bouman.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-#theme: minima
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-
-
 remote_theme: daviddarnes/alembic@main
+
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
+
+# 2. Installed Gems
+plugins:
+- jekyll-remote-theme
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
