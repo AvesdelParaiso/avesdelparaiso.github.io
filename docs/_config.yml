@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://blog.bouman.io'
-baseurl: 'https://blog.bouman.io'
+baseurl: ''
 title: 'Aves del Paraíso'
 description: ''
 permalink: pretty
