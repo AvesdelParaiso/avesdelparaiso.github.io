@@ -21,7 +21,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://blog.bouman.io'
+url: 'https://avesdelparaiso.github.io/'
 baseurl: ''
 title: 'Aves del Paraíso'
 description: ''
