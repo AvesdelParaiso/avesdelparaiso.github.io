@@ -1,6 +1,6 @@
 ---
 title: Het begin van onze droom!
-categories: - General
+categories: -General
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
