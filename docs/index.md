@@ -1,9 +1,9 @@
 ---
 title: Welcome!
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/images/Bird-Of-Paradise-Flower-6.jpg"
 feature_text: |
   ## Aves del Paraiso
 ---
 
-[Klik hier voor de posts in het Nederlands]({% link categories/#nl %})
-[Click here for posts in English]({% link categories/#en %})
+[Klik hier voor de posts in het Nederlands](/categories/#nl)
+[Click here for posts in English](/categories/#en)
