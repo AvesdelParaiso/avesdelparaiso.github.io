@@ -1,7 +1,7 @@
 ---
 title: Het begin van onze droom!
 categories: NL
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: images/visit-omslag.jpg
 ---
 
 
@@ -16,11 +16,19 @@ Caspe ligt in de autonome region Aragon, in het Noordwesten van Spanje, dit is o
 
 Helaas hebben we verder de omgeving niet erg kunnen ontdekken door de Corona restricties. Het was ook nog spannend, omdat we een formulier bij ons moesten hebben met de reden waarom we onze woonplaats verlieten. We mogen nu namelijk al een paar maanden de stad niet verlaten zonder een geldige reden. Ik kon nergens duidelijk vinden of het bezichtigen van een huis gezien werd als een geldige reden, maar na overleg met de makelaar denken we van wel. Toen we door Caspe reden zagen we een aantal barretjes en restaurants. Verder was er een markt open en genoeg leven in de stad. De finca ligt 5 minuten rijden buiten de stad en later hoorde we van onze advocaat dat er zelfs veel gefietst wordt (waarschijnlijk grotendeels Nederlands). 
 
+![Achterkant van het huis](/images/visit-1.jpg)
+
 Vanuit Maella was het 10 minuten rijden, er ligt hier een hoofdweg tussen de bergen dus een mooie rit. Het laatste stuk reden we over een onverharde weg en hier had onze ford fiesta wel een beetje moeite mee. Er staat een groot hek voor het terrein, wanneer je er doorheen rijd staat er rechts een groot water basin. We twijfelde nog over het aantal vierkante meter van het terrein (11.800 m2), aangezien we veel groenten en fruit moeten verbouwen. Maar deze twijfel verdween snel toen we er stonden en de ruimte om ons heen voelde. In de toekomst lijkt het ons leuk om een yurt te bouwen, hier kunnen dan gasten in verblijven. Daarnaast is Luna een grote reden om deze stap te wagen, ze heeft hier alle ruimte om te rennen en haar omgeving te ontdekken. Inmiddels zijn we er wel achter dat Luna geen stads hond is, al hebben we ook veel parken om ons heen in Barcelona. Echter zijn hier vaak veel mensen en honden, wat Luna toch wel zenuwachtig kan maken. Al doet ze het tegenwoordig erg goed, zelfs op het strand.
+
+![Voorkant van het huis](/images/visit-2.jpg)
 
 Het land bestaat uit verschillende delen, een stuk grond met gras waar we nu onze auto hadden geparkeerd. Dit is verbonden aan het huis en de voorkant van de schuur. Hier rechts van ligt nog een stuk grond wat droger is, met nog wel wat begroeiing. Er groeien nu bramen, wat bomen en er staat een perzikboom. Er is daarnaast een klein deel waar het water basin staat, gelijk als je het hek door gaat. De openslaande deuren van het huis kijken uit op een groen stukje land, hier hadden de vorige bewoners hun groente tuin. Hier loopt namelijk ook de irrigatie door. Verder staat er een conifeer en nog een perzikboom. Voor het andere stuk land, bestaande uit twee terrassen, moet je weer het hek door. Hierna aan je linkerhand ligt het stuk grond met vijgenbomen. Ik kan nu al niet wachten om vijgenjam, vijgentaart, vijgen muffins en gedroogde vijgen te maken :)!
 
+![Het aanliggende land](/images/visit-3.jpg)
+
 Het huis is 92 m2, wat deels bestaat uit een schuur. Het huisje hoe het er nu staat is zo rond de 50 m2 en zou ook al groot genoeg voor ons zijn aangezien we nooit echt groter hebben gewoond. We willen een mooie grote deur in de muur plaatsen die de schuur van het huis scheid en hier een keuken in maken met uitzicht op het land. We hebben al zoveel ideeën hoe we het huis willen inrichten, we voelen ons zelf haast architecten met alle tekeningen die hier al liggen. Misschien heeft al die jaren Sims spelen toch nog zin gehad. 
+
+![Vanuit de toekomstige slaapkamer](/images/visit-4.jpg)
 
 
 Al tijdens de bezichtiging zagen we alle mogelijkheden met het huis, dit moet je ook wel hebben met een beetje naïviteit anders begin je er nooit aan. Er waren nog een aantal bezichtigingen gepland en er lag al een bod, dus we hebben er het hele weekend over gepraat en nagedacht. Het enige punt wat ons in de weg zat is het asbest in het dak, dit zit alleen in de schuur en is nog niet oud. Maar hier wilde we toch graag een architect naar laten kijken net als een kleine scheur in de muur. We zijn hard aan de slag gegaan en via hulp van facebook een architect in Caspe gevonden. De makelaar had hier vaker mee samen gewerkt, aangezien zij veel huizen in Caspe en Maella verkopen. Aangezien het een stuk rijden is hebben we maandag via de telefoon overlegd en is de architect zelf naar het huis gegaan. Alle oplossingen zijn inmiddels besproken en het dak is makkelijk te verstevigen zodat we er niet aan hoeven te komen. De asbest kan gelukkig geen kwaad zolang je er vanaf blijft. Onze twijfels over het water toevoer hebben we ook besproken, maar aangezien wij aangesloten zitten op het water is dit voldoende. Met ons regenwater opvangsysteem kunnen we daarnaast ook een deel verzamelen. Daarnaast zijn er in Maella en Caspe watertappunten aanwezig, waar je zelf water mag halen (of bestellen). 
