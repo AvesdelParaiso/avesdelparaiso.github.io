@@ -51,4 +51,3 @@ Our dream is so close now, especially after talking about this for years. Luckil
 
 Of course we’re also still enjoying Barcelona a lot. We have a nice terrace and a view of the city and sea. Unfortunately it’s not possible to go out at night and eat tapas with friends. But luckily we got to do this last summer a few times and hopefully this year too. We met some kind and beautiful people and also, sadly, had to say goodbye to some of them. Corona had a big part in this, because the unemployment rate is very high and especially among younger people. 
 
-[^1]  [Sapiens: A Brief History of Humankind by Yuval Noah Harari](https://www.goodreads.com/book/show/23692271-sapiens)
