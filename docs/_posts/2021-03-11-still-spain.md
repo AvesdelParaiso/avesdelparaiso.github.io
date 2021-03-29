@@ -10,5 +10,3 @@ We don’t want to go through all this trouble again so we immediately called th
 
 ![foto1](/images/US.jpg)
 *Hopefully it won't take to long for our next trip to Caspe*
-
-{% include comments.html %}

@@ -9,5 +9,3 @@ Yes! Today the lawyer called us and had some good news to tell us! We have a ‘
 
 ![foto1](</images/WhatsApp Image 2021-03-29 at 10.00.44.jpeg>)
 *Luna is ready for our new adventure!*
-
-{% include comments.html %}
