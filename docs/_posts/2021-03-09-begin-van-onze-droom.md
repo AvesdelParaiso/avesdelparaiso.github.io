@@ -1,7 +1,7 @@
 ---
 title: Het begin van onze droom!
 categories: NL
-feature_image: /images/US1.jfif
+feature_image: /images/Mountains.jpg
 
 ---
 
