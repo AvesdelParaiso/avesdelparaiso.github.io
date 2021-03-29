@@ -14,13 +14,14 @@ I’ll start off with saying a little bit about the city Caspe, there are around
 Other than that, Caspe is known for their olives, cherries and almonds. And the best thing off all is that they speak Spanish! Finally no Catalan or other dialects, so we can really put all the things we learned into practise. As of now we can have simple conversations with neighbours, in stores and do our administration. But because of Covid we have less opportunities to practise than we would want. We also found out that there are more Dutch people living here, they gave us a warm welcome and some helpful advice. This is already so different compared to the life we’re living now in Barcelona where we hardly know the neighbours. 
 
 ![The back of the house](/images/visit-1.jpg)
+*The back of the house*
 
 
 So back to the viewing of the property. We agreed to meet the realtor in Maella, as he lives there with his family. This came in handy as it’s not that easy to find the house on your own, especially because we don't know this area very well. We also didn’t have a lot of options to explore the area, as we were only allowed to see the house. We were a bit hesitant at first to travel this far from Barcelona, because we are still in lockdown and not allowed to leave the city. But after talking to the realtor and other people we figured that the viewing was probably a valid enough reason. We filled out a form, but luckily never had to show it to anyone.
 Our Ford Fiesta was having a hard time on our way to the finca, as the street that connects the house to the main road is unpaved. Arriving at the property the road is blocked by a big fence, since it’s the last one on the road. From there you cannot see the house and there is a small turn and the first thing you see is the water basin. The first thing we noticed was the cute house and all the land that surrounded it. We weren’t sure if we would have enough space to grow all the food we need, but after guesstimating we’re sure it is (11.800 m2). We also have so many other ideas with what we can do with the land. In the future we would like to build a yurt for guests to sleep in. 
 
 ![The front of the house](/images/visit-2.jpg)
-
+*The front of the house*
 
 It was so nice to see Luna running around, she is one of the reasons we’re taking this step and don’t want to wait for too many years. She’ll have all the space she needs here to run and explore. She’s not a city dog and even though we have lots of parks around in Barcelona and we live in a quiet neighbourhood, she gets easily stressed.
 
@@ -28,10 +29,12 @@ The land consists of different parts. The first area is pretty green, covered in
 The land connected to the front of the house is where the water basin is built. The old owners had a vegetable garden here and there is a conifer too and another peach tree. When you exit the land through the gate, on the left there are two terraces that belong to the property. The terraces are full of vig trees, so I can’t wait to make (and eat) vigjam, vig cake, vig cupcakes and dry them :)!
 
 ![The attached land](/images/visit-3.jpg)
+*The attached land*
 
 The buildings themselves are about 92 m2 together. The house itself is 50m2, which would be big enough for us as we never owned a big house or apartment. As we were walking in the house, Thomas had the idea to break through the wall and place a big door, so the two parts are connected. It would be perfect; we can make a big kitchen in the barn with a view over our land. We have so many ideas, so we can’t wait to try them! Maybe all the years experience I have with playing the Sims will come in handy.   
 
 ![The view from our future bedroom](/images/visit-4.jpg)
+*The view from our future bedroom*
 
 Luckily the house has an irrigation system that is connected to the river, but we don’t have unlimited access to water. They let the water flow for one and a half days every 2 weeks for all the farms in our area. This way everyone gets enough water to water their crops and it’s equally divided. With the house comes a water basin with a volume of 15,000 liters. We want to expand our irrigation system and set up a system for rain harvesting. In the summer it gets really dry in July and August, so we need to make sure we keep every drop that falls. It doesn’t have a main connection for electricity either, but we want to generate this ourselves anyhow.
 
