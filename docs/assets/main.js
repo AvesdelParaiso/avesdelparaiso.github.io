@@ -16,6 +16,7 @@
       type: $(this).attr('method'),
       url:  $(this).attr('action'),
       data: $(this).serialize(),
+      headers: {'Access-Control-Allow-Origin': '*'},
       contentType: 'application/x-www-form-urlencoded',
       success: function (data) {
         showModal('Comment submitted', 'Thanks for commenting!');
