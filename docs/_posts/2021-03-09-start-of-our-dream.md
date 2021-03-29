@@ -23,7 +23,7 @@ Our Ford Fiesta was having a hard time on our way to the finca, as the street th
 
 
 It was so nice to see Luna running around, she is one of the reasons we’re taking this step and don’t want to wait for too many years. She’ll have all the space she needs here to run and explore. She’s not a city dog and even though we have lots of parks around in Barcelona and we live in a quiet neighbourhood, she gets easily stressed.
----
+
 The land consists of different parts. The first area is pretty green, covered in grasses, this is where we parked our car. It is connected to the house and the front of the barn. On the right there is another piece of land which is pretty dry. There are a few trees, blackberry bushes and a peach tree.
 The land connected to the front of the house is where the water basin is built. The old owners had a vegetable garden here and there is a conifer too and another peach tree. When you exit the land through the gate, on the left there are two terraces that belong to the property. The terraces are full of vig trees, so I can’t wait to make (and eat) vigjam, vig cake, vig cupcakes and dry them :)!
 
