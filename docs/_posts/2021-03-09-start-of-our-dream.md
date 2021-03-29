@@ -1,7 +1,7 @@
 ---
 title: The start of our dream!
 categories: EN
-feature_image: images/visit-omslag.jpg
+feature_image: /images/visit-omslag.jpg
 ---
 
 
