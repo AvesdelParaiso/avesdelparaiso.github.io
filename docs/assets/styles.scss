@@ -3,9 +3,7 @@ title: false
 styles: true
 ---
 
-.typeset h2 {
-    color: whitesmoke;
-}
+$headingColour: #F5F5F5 !default;
 
 
 @import "alembic";
