@@ -9,3 +9,5 @@ Pff spannend belletje net in de vroege ochtend gehad! De advocaat belde om te ve
 
 ![foto1](/images/US.jpg)
 *Hopelijk kunnen we weer snel met de auto naar Caspe*
+
+{% include comments.html %}
