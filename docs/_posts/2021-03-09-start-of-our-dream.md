@@ -2,6 +2,7 @@
 title: The start of our dream!
 categories: EN
 feature_image: /images/Mountains.jpg
+comments: true
 ---
 
 
