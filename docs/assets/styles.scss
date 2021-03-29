@@ -7,6 +7,16 @@ h2 {
     color: #F5F5F5 !important
 }
 
+$base-font-weight: normal !default;
+$base-line-height: 2rem !default;
+$base-font-family: "Georgia, serif" !default;
+$text-color: black !default;
+$background-color: #F5F5F5 !default;
+$grey-color: grey !default;
+$small-font-size: 1.5 rem !default;
+
+$grey-color-light: lightgrey !default;
+
 @import "comment-styles";
 @import "alembic";
 
