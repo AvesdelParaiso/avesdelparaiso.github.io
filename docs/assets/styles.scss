@@ -3,7 +3,9 @@ title: false
 styles: true
 ---
 
-$headingColour: #F5F5F5 !default;
+h2 {
+    color: #F5F5F5 !important
+}
 
 
 @import "alembic";
