@@ -8,3 +8,4 @@ So we just woke up and got a call from our lawyer. But not with the news that we
 We don’t want to go through all this trouble again so we immediately called the realtor. The realtor just found out himself, but he already spoke to the notary and didn’t foresee any problems. This house isn’t connected to the main electricity network or water, so there is no need for a state architect to check the house. But just to be sure we let this include in the contract just in case it doesn’t work out the way we want. And also we don’t have to pay any extra costs now that comes with the registry. Hopefully we can sign the new contract soon!
 
 ![foto1](/images/US.jpg)
+*Hopefully it won't take to long for our next trip to Caspe*
