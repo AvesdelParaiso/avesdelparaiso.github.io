@@ -11,6 +11,6 @@ feature_text: |
 [Click here for posts in English](/categories/#en)
 
 
-------
+----
 
-![Berga](/images/berga.png)
+![Berga](/images/berga.JPEG)
