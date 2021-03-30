@@ -6,4 +6,11 @@ feature_text: |
 ---
 
 [Klik hier voor de posts in het Nederlands](/categories/#nl)
+
+
 [Click here for posts in English](/categories/#en)
+
+
+------
+
+![Berga](/images/berga.png)
