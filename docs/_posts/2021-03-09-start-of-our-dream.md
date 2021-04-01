@@ -2,7 +2,7 @@
 title: The start of our dream!
 categories: EN
 feature_image: /images/Mountains.jpg
-comments: true
+comments: false
 ---
 
 
@@ -50,5 +50,3 @@ So now it’s time to put in our offer, we offered the asking price of 45.000 an
 Our dream is so close now, especially after talking about this for years. Luckily we have our jobs to keep us occupied. Thomas is still working at Doctoralia, a Spanish/Polish company that develops an online agenda for doctor’s appointments. So you can imagine Thomas was never really bored this past year. I started working at a Belgian call center a month ago. This is part time as I’m also studying Spanish. I completed the first course at school and now I’m getting private lessons through my company. 
 
 Of course we’re also still enjoying Barcelona a lot. We have a nice terrace and a view of the city and sea. Unfortunately it’s not possible to go out at night and eat tapas with friends. But luckily we got to do this last summer a few times and hopefully this year too. We met some kind and beautiful people and also, sadly, had to say goodbye to some of them. Corona had a big part in this, because the unemployment rate is very high and especially among younger people. 
-
-{% include comments.html %}
